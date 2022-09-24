@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://testuser1:testuser1@cluster0.n07unot.mongodb.net/test",
+  "jwtSecret": "secret",
+
+  "mongo": "mongodb://localhost:27017/contactkeeper"
+}
